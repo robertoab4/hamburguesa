@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Hamburguesa
+comment1.params=nombreHamburguesa\ pepinillo
+comment1.target=Hamburguesa(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNombreHamburguesa()
+comment3.params=
+comment3.target=int\ getNumeroCarnes()
+comment4.params=
+comment4.target=boolean\ getTienePepinillo()
+comment5.params=nuevoNombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=nuevasCarnes
+comment6.target=int\ introducirNuevasCarnes(int)
+comment7.params=
+comment7.target=void\ introducirPepinillo()
+comment8.params=
+comment8.target=void\ imprimeAtributos()
+comment9.params=
+comment9.target=java.lang.String\ estadoObjeto()
+numComments=10
